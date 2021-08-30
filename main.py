@@ -40,37 +40,3 @@ textbox.place(x=100,y=80)
 
 btn = Button(frame,text="Download",command=fn).place(x=300,y=75)
 frame.mainloop()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#day4
-#from tkinter import*
-
-#frame= Tk()
-#frame.geometry("500x150")
-
-#YoutubeDownloder_label = Label(frame,text="Youtube Downloader").place(x=150,y=20)
-#Enterurl_label = Label(frame,text="Enter url").place(x=80,y=50)
-#Enterurl_text = Entry(frame,width=20,text="Enter url").place(x=180,y=50)
-#download_Button = Button(frame,text="download",command=fn).place(x=320,y=45)
-
-#frame.mainloop()
